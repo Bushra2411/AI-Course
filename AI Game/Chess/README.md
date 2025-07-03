@@ -29,6 +29,6 @@ This is a basic chess game that follows standard chess rules. It features:
           pip install pygame python-chess
       ```
 3. Run the game:
-        ```bash
-             python chess_game.py
-       ```
+   ```bash
+       python chess_game.py   
+       
