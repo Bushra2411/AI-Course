@@ -31,4 +31,4 @@ This is a basic chess game that follows standard chess rules. It features:
 3. Run the game:
         ```bash
              python chess_game.py
-   ```
+       ```
