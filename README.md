@@ -29,7 +29,9 @@ These techniques helped us understand how AI can be used to think, search, optim
 
 ## 👨‍🏫 Course Taken Under the Supervision of
 
-*Razorshi Prozzwal Talukder*
-Lecturer, Department of Computer Science and Engineering  
-North East University Bangladesh.
+
+**Razorshi Prozzwal Talukder** 
+Lecturer  
+Department of Computer Science and Engineering  
+North East University Bangladesh
 ---
