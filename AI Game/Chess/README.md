@@ -30,5 +30,10 @@ This is a basic chess game that follows standard chess rules. It features:
       ```
 3. Run the game:
    ```bash
-       python chess_game.py   
-       
+       python chess_game.py
+---
+
+## Display
+
+       <img width="596" height="634" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/e2a68db8-58ba-43fa-ae32-a250835277c6" />
+
