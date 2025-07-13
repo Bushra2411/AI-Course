@@ -35,5 +35,9 @@ This is a basic chess game that follows standard chess rules. It features:
 
 ## Display
 
-       <img width="596" height="634" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/e2a68db8-58ba-43fa-ae32-a250835277c6" />
+
+<img width="596" height="634" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/54eec0bc-a553-4705-8d65-065f58287683" />
+
+
+       
 
